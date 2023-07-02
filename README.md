@@ -21,6 +21,6 @@
      `'                  `OObNNNNNdOO'                   `'
                            `~OOOOO~'
                            
-# contact one maybe on those
+# contact
 # website_url www.instagram.com/01010100010_
 # website_url www.twitter.com/0101Whoami
