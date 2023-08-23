@@ -1,6 +1,8 @@
-# README lazybuffer
-# self thought CEH
-# bug bounty Hunter
+## README ( lazybuffer ) 01010100010_
+- self thought CEH
+- bug bounty Hunter/Pentration tester
+
+<pre>
     _                      _______                      _
   _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_
  dP'  ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~  `Yb
@@ -20,7 +22,8 @@
    `Mb.           `YMMMb`OOOI,,,,,IOOOO'dMMMP'           ,dM'
      `'                  `OObNNNNNdOO'                   `'
                            `~OOOOO~'
+</pre>
                            
-# contact
-# website_url www.instagram.com/01010100010_
-# website_url www.twitter.com/0101Whoami
+## contact
+- website_url www.instagram.com/01010100010_
+- website_url www.twitter.com/0101Whoami
