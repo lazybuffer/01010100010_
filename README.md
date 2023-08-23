@@ -1,6 +1,6 @@
-## 01010100010_ ( lazybuffer )
-- self thought CEH
-- bug bounty Hunter/Pentration tester
+## 01010100010_ ( lazybuffer ) / ( h4ck3bhi ) / ( inRealm..abhijit-boro )
+- Certified-Ethical-Hacker
+- bug bounty Hunter / Pentration tester / red-teamer
 - python developer
 - web developer
 
