@@ -1,6 +1,8 @@
 ## 01010100010_ ( lazybuffer )
 - self thought CEH
 - bug bounty Hunter/Pentration tester
+- python developer
+- web developer
 
 <pre>
     _                      _______                      _
