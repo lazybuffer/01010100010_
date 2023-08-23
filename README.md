@@ -1,4 +1,4 @@
-## ( lazybuffer ) 01010100010_
+## 01010100010_ ( lazybuffer )
 - self thought CEH
 - bug bounty Hunter/Pentration tester
 
