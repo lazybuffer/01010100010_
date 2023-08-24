@@ -1,4 +1,5 @@
-## 01010100010_ ( lazybuffer ) / ( h4ck3bhi ) / ( inRealm..abhijit-boro )
+## Abhijit Boro ( lazybuffer ) / ( h4ck3bhi ) / ( 01010100010_ )
+- web-application pentester
 - Certified-Ethical-Hacker
 - bug bounty Hunter / Pentration tester / red-teamer
 - python developer
@@ -30,3 +31,9 @@
 - website_url> www.instagram.com/01010100010_
 - website_url> www.facebook.com/abhijitboro438
 - website_url> www.twitter.com/0101Whoami
+
+## searching for jobs like
+- web-application penetration tester
+- security analyser
+- ethical-hacker
+- 
