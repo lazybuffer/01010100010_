@@ -36,4 +36,3 @@
 - web-application penetration tester
 - security analyser
 - ethical-hacker
-- 
